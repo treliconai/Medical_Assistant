@@ -5,7 +5,7 @@ This project creates a medical chatbot using LangChain, Pinecone, and a local mo
 
 ## Project Overview
 
-The chatbot is built using Flask, LangChain, Pinecone, and a custom Llama-2 model. The core components of the system include:
+The chatbot is built using Flask, LangChain, Pinecone, and a custom Llama-3 model. The core components of the system include:
 
 1. **Flask Web Application**: A simple web server to handle user inputs and return responses.
 2. **Document Search**: Pinecone is used to store and retrieve document embeddings for fast and efficient search.
